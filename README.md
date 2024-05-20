@@ -35,7 +35,7 @@ The main script (`data_mining_cybersecurity.py`) performs the following tasks:
 ## Getting Started
 
 1. **Clone the Repository:**
-git clone https://github.com/your_username/data-mining-cybersecurity.git
+git clone https://github.com/Onder-MuratCan/data-mining-cybersecurity.git
 
 
 2. **Install Dependencies:**
