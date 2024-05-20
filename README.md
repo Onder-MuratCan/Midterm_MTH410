@@ -35,14 +35,14 @@ The main script (`data_mining_cybersecurity.py`) performs the following tasks:
 ## Getting Started
 
 1. **Clone the Repository:**
-git clone https://github.com/Onder-MuratCan/data-mining-cybersecurity.git
+git clone https://github.com/Onder-MuratCan/Midterm_MTH410
 
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
 pip install -r requirements.txt
 
 
-3. **Run the Script:**
+4. **Run the Script:**
 python data_mining_cybersecurity.py
 
 
