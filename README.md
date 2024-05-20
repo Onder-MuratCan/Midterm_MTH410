@@ -1,5 +1,9 @@
 # Data Mining for Cybersecurity
 
++ Murat Can Önder – 119200089
+
++ Uğur Çelik – 119200045
+
 This project focuses on utilizing data mining techniques for cybersecurity purposes. The objective is to analyze network traffic data, specifically distinguishing between normal and attack traffic using machine learning models.
 
 ## Datasets
